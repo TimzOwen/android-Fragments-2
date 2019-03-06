@@ -8,7 +8,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    AppBarLayout appBarLayout;
+    AppBarLayout appBarLayout; // can makeit also as local variable
     ViewPager viewPager;
     TabLayout tabLayout;
 
